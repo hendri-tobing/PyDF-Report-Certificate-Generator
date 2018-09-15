@@ -11,7 +11,9 @@ Click "Open" icon to open an Excel file with specific format. For instance "Data
 The program will generate reports as many as lines in the Excel files. The report will look like this.
 
 Frontside: 
-![][reportFrontsied.jpg]
+
+![](https://github.com/hendri-tobing/PyDF-Report-Certificate-Generator/blob/master/reportFrontside.png)
 
 Backside:
-![][ReportBackside.jpg]
+
+![](https://github.com/hendri-tobing/PyDF-Report-Certificate-Generator/blob/master/reportBackside.png)
