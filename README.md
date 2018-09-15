@@ -1,6 +1,6 @@
 # PyDF Report Certificate Generator
 
-This is an old Python program that I create to help educators produce an automatic student reports/certificate.
+This is an old Python program that I create to help educators produce an automatic student reports/certificates.
 
 It is running on Python 2.7, using reportlab to produce the PDF file and also xlrd to grab and parse data from an MS Excel document.
 
