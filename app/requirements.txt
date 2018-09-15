@@ -1,0 +1,4 @@
+xlrd==1.0.0
+reportlab==3.3.0
+Pillow==5.2.0
+PySide==1.2.4
